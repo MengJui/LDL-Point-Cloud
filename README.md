@@ -5,4 +5,4 @@ Lidar (light detection and ranging) is an optical remote-sensing technique that 
 Lidar is an active optical sensor that transmits laser beams toward a target while moving through specific survey routes. The reflection of the laser from the target is detected and analyzed by receivers in the lidar sensor. These receivers record the precise time from when the laser pulse left the system to when it is returned to calculate the range distance between the sensor and the target.
 
 
-![around](https://user-images.githubusercontent.com/82630423/183345745-e58addf0-0390-4f50-bfde-ced12705c3b7.jpg)
+
