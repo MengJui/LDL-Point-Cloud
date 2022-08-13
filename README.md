@@ -29,6 +29,6 @@ In our point cloud database, the data format is PCD file. Each point cloud conta
 [7.	Jun-Da Chen, Kuan-Wei Wu, Hsin-Lin Ho, Cheng-Ting Lee, and F. Y. Lin, “3D multi-input multi-output (MIMO) pulsed chaos lidar based on time-division multiplexing,” IEEE J. of Sel. Top. Quantum Electron., 2022. ](https://ieeexplore.ieee.org/abstract/document/9712361)
 
 
+## Citation
 
-
-
+When using this dataset in your research, we will be happy if you cite us! 
