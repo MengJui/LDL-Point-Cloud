@@ -28,6 +28,13 @@ In our point cloud database, the data format is PCD file. Each point cloud conta
 
 [7.	Jun-Da Chen, Kuan-Wei Wu, Hsin-Lin Ho, Cheng-Ting Lee, and F. Y. Lin, “3D multi-input multi-output (MIMO) pulsed chaos lidar based on time-division multiplexing,” IEEE J. of Sel. Top. Quantum Electron., 2022. ](https://ieeexplore.ieee.org/abstract/document/9712361)
 
+## LASER DYNAMICS LAB
+
+The laser dynamics lab was established in 2004. We specialized in nonlinear dynamics of semiconductor lasers and their novel applications. Both simulations and experiments are being developed and studied. Our research interests include 3D chaos lidar, diverse waveform generation using laser dynamics, laser-based ultra-wideband (UWB) radar, UWB microwave imaging and communications, target identifications, and penetration detections. Beyond the academic merits, these technologies are highly related and demanded by the industries.
+
+Since 2016, our group focus on the development of the 3D Chaos Lidar System for applications of autonomous vehicles, AR/VR, 3D modelling, localization and recognition. By utilizing the unique properties of broadband chaos modulated pulses, the unprecedented chaos lidar system not only has millimeter precision in ranging but also immune to interference and jamming.
+
+[Laboratory website](https://sites.google.com/gapp.nthu.edu.tw/laserdynamicslab/home?fbclid=IwAR2nqJDHTRwgsafg7JWw__DIOk5NaI-2SwloBHel0wMdsnctNaspWk36aOc)
 
 ## Citation
 
