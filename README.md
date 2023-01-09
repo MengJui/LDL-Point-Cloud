@@ -39,4 +39,6 @@ Since 2016, our group focus on the development of the 3D Chaos Lidar System for 
 
 ## Citation
 
+H. L. Ho, J. D. Chen, C. A. Yang, C. C. Liu, C. T. Lee, Y. H. Lai, and F. Y. Lin, “High-speed 3D imaging using a chaos lidar system,”  The European Physical Journal Special Topics, pp. 435-441, 2022.
+
 When using this dataset in your research, we will be happy if you cite us! 
