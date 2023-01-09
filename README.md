@@ -7,9 +7,9 @@ In our point cloud database, the data format is PCD file. Each point cloud conta
 
 ### [Gesture](https://github.com/MengJui/LDL-Point-Cloud/blob/main/Point%20cloud%20database%20-%20Gesture.md)
 
-### [rabbit & dog models](https://github.com/MengJui/LDL-Point-Cloud/blob/main/Point%20cloud%20database%20-%203D%20Object.md)
+### [Rabbit & dog models](https://github.com/MengJui/LDL-Point-Cloud/blob/main/Point%20cloud%20database%20-%203D%20Object.md)
 
-### [fish models](https://github.com/MengJui/LDL-Point-Cloud/blob/main/Point%20cloud%20database%20-%20Gesture.md)
+### [Fish models](https://github.com/MengJui/LDL-Point-Cloud/blob/main/Point%20cloud%20database%20-%20Gesture.md)
 
 ## About Chaos Lidar 
 
